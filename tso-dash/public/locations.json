@@ -1,0 +1,29 @@
+{
+    "locations":[
+      {
+        "id": 1,
+        "state": "EWE NSW",
+        "address": "Unit 3B/39 Stennett Road, Ingleburn, NSW 2565"
+      },
+      {
+        "id": 2,
+        "state": "EWE VIC",
+        "address": "11a Chifley Drive, Moorabbin Airport, VIC 3194"
+      },
+      {
+        "id": 3,
+        "state": "EWE QLD",
+        "address": "Building 2 221 Gooderham Road, Willawong, QLD 4110"
+      },
+      {
+        "id": 4,
+        "state": "TMD VIC",
+        "address": "19 Zilla Court, Dandenong South VIC 3175"
+      },
+      {
+        "id": 5,
+        "state": "TMD WA",
+        "address": "8 Bradford Street, Kewdale, WA 6105"
+      }
+    ]
+}

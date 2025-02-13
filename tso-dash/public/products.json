@@ -1,0 +1,514 @@
+{
+  "products":[
+    {
+      "ID": 1,
+      "SKU": "SEGW-C20-BLK",
+      "Description": "C2O",
+      "PriceEx": "253.91"
+    },
+    {
+      "ID": 2,
+      "SKU": "SEGW-E2",
+      "Description": "Segway-Ninebot Electric KickScooter E2",
+      "PriceEx": "326.62"
+    },
+    {
+      "ID": 3,
+      "SKU": "SEGW-E2-PLUS",
+      "Description": "Segway-Ninebot Electric KickScooter E2 Plus",
+      "PriceEx": "432.10"
+    },
+    {
+      "ID": 4,
+      "SKU": "SEGW-E2-PRO",
+      "Description": "Segway-Ninebot Electric KickScooter E2 Pro",
+      "PriceEx": "555.74"
+    },
+    {
+      "ID": 5,
+      "SKU": "SEGW-F2",
+      "Description": "Segway-Ninebot Electric KickScooter F2",
+      "PriceEx": "586.65"
+    },
+    {
+      "ID": 6,
+      "SKU": "SEGW-F2-PLUS",
+      "Description": "Segway-Ninebot Electric KickScooter F2 Plus",
+      "PriceEx": "679.38"
+    },
+    {
+      "ID": 7,
+      "SKU": "SEGW-F2-PRO",
+      "Description": "Segway-Ninebot Electric KickScooter F2 Pro",
+      "PriceEx": "864.84"
+    },
+    {
+      "ID": 8,
+      "SKU": "SEGW-MAX-G2",
+      "Description": "Segway-Ninebot Electric KickScooter Max G2",
+      "PriceEx": "1050.29"
+    },
+    {
+      "ID": 9,
+      "SKU": "SEGW-F30",
+      "Description": "Segway-Ninebot Electric KickScooter F30",
+      "PriceEx": "444.82"
+    },
+    {
+      "ID": 10,
+      "SKU": "SEGW-P65A",
+      "Description": "Segway-Ninebot Electric KickScooter P65A",
+      "PriceEx": "826.68"
+    },
+    {
+      "ID": 11,
+      "SKU": "SEGW-GT1",
+      "Description": "Segway-Ninebot Electric KickScooter GT1",
+      "PriceEx": "2099.36"
+    },
+    {
+      "ID": 12,
+      "SKU": "SEGW-GT2",
+      "Description": "Segway-Ninebot Electric KickScooter GT2",
+      "PriceEx": "3181.18"
+    },
+    {
+      "ID": 13,
+      "SKU": "SEGW-ZT3-PRO",
+      "Description": "Segway Ninebot SuperScooter ZT3 Pro",
+      "PriceEx": "1235.74"
+    },
+    {
+      "ID": 14,
+      "SKU": "SEGW-GOKART-PRO2",
+      "Description": "Segway Ninebot GoKart Pro 2",
+      "PriceEx": "2286.65"
+    },
+    {
+      "ID": 15,
+      "SKU": "SEGW-GOKART-PRO",
+      "Description": "Segway-Ninebot Gokart PRO-Lambourghini",
+      "PriceEx": "1594.86"
+    },
+    {
+      "ID": 16,
+      "SKU": "SEGW-G65",
+      "Description": "Segway-Ninebot Electric KickScooter G65",
+      "PriceEx": "590.32"
+    },
+    {
+      "ID": 17,
+      "SKU": "SEGW-F65I",
+      "Description": "Segway-Ninebot Electric KickScooter F65I",
+      "PriceEx": "531.23"
+    },
+    {
+      "ID": 18,
+      "SKU": "SEGW-C2",
+      "Description": "Segway-Ninebot Electric KickScooter C2",
+      "PriceEx": "308.47"
+    },
+    {
+      "ID": 19,
+      "SKU": "SEGW-C2-PRO",
+      "Description": "Segway-Ninebot Electric KickScooter C2 Pro",
+      "PriceEx": "370.29"
+    },
+    {
+      "ID": 20,
+      "SKU": "SEGW-C2-LITE-BLUE",
+      "Description": "Segway-Ninebot Electric KickScooter C2 Lite",
+      "PriceEx": "246.65"
+    },
+    {
+      "ID": 21,
+      "SKU": "AC.00.0000.38",
+      "Description": "Electric Scooter Front New Bag Pouch",
+      "PriceEx": "40.77"
+    },
+    {
+      "ID": 22,
+      "SKU": "AB.00.0001.10",
+      "Description": "Kickscooter storage bag",
+      "PriceEx": "46.68"
+    },
+    {
+      "ID": 23,
+      "SKU": "AA.00.0010.59",
+      "Description": "Segway Ninebot Phone Holder (C, E and F series)",
+      "PriceEx": "28.95"
+    },
+    {
+      "ID": 24,
+      "SKU": "AC.00.00.03.0027",
+      "Description": "Password locks EU",
+      "PriceEx": "28.95"
+    },
+    {
+      "ID": 25,
+      "SKU": "AC.00.0000.96",
+      "Description": "F SERIES MULTIFUCTIONAL SEAT ATTACHED BAG",
+      "PriceEx": "117.59"
+    },
+    {
+      "ID": 26,
+      "SKU": "AC.00.0000.30",
+      "Description": "Ninebot Seat for F Series",
+      "PriceEx": "70.32"
+    },
+    {
+      "ID": 27,
+      "SKU": "AC.00.0000.95",
+      "Description": "Multifuctional Seat",
+      "PriceEx": "76.23"
+    },
+    {
+      "ID": 28,
+      "SKU": "AD.05.00.03.0101",
+      "Description": "Segway MAX G2 Multifuctional Seat & Bag",
+      "PriceEx": "117.59"
+    },
+    {
+      "ID": 29,
+      "SKU": "AB.00.0011.93",
+      "Description": "Segway Ninebot KickScooter MAX G30/G30LP Scooter Seat",
+      "PriceEx": "70.32"
+    },
+    {
+      "ID": 30,
+      "SKU": "AC.00.00.19.0087",
+      "Description": "Helmet-Kids- XS- Black",
+      "PriceEx": "58.50"
+    },
+    {
+      "ID": 31,
+      "SKU": "AC.00.00.19.0090",
+      "Description": "Helmet-Adult- L- Black",
+      "PriceEx": "58.50"
+    },
+    {
+      "ID": 32,
+      "SKU": "AC.00.0000.27",
+      "Description": "Segway Helmet-S/M-Black",
+      "PriceEx": "58.50"
+    },
+    {
+      "ID": 33,
+      "SKU": "AC.00.0000.28",
+      "Description": "Segway Helmet-XS-Orange",
+      "PriceEx": "58.50"
+    },
+    {
+      "ID": 34,
+      "SKU": "AA.00.0003.98",
+      "Description": "NINEBOT UPGRADE HEADLIGHT",
+      "PriceEx": "29.52"
+    },
+    {
+      "ID": 35,
+      "SKU": "AB.00.0008.78",
+      "Description": "NINEBOT CASUAL BACKPACK",
+      "PriceEx": "58.50"
+    },
+    {
+      "ID": 36,
+      "SKU": "AB.00.0008.79",
+      "Description": "NINEBOT MULTIFUNCTIONAL BACKPACK",
+      "PriceEx": "58.50"
+    },
+    {
+      "ID": 37,
+      "SKU": "AC.00.0000.06",
+      "Description": "Electric Raid Tire Inflator",
+      "PriceEx": "88.05"
+    },
+    {
+      "ID": 38,
+      "SKU": "AD.05.00.11.0011",
+      "Description": "Extender Bar (For P Series)",
+      "PriceEx": null 
+    },
+    {
+      "ID": 39,
+      "SKU": "AA.00.0010.19",
+      "Description": "Segway Ninebot Engine Bluetooth Speaker",
+      "PriceEx": "153.92"
+    },
+    {
+      "ID": 40,
+      "SKU": "8.02.0209",
+      "Description": "S8 Pro Ultra Accessories Set",
+      "PriceEx": "58.50"
+    },
+    {
+      "ID": 41,
+      "SKU": "8.02.0239",
+      "Description": "Roborock Robotic Vacuum Cleaner Parts- Q Revo Disposable Dust bag (6pcs)",
+      "PriceEx": "25.41"
+    },
+    {
+      "ID": 42,
+      "SKU": "8.02.0240",
+      "Description": "Roborock Robotic Vacuum Cleaner Parts-QRevo Washable Dust Bin Filter (2pcs/pack)",
+      "PriceEx": "14.51"
+    },
+    {
+      "ID": 43,
+      "SKU": "8.02.0246",
+      "Description": "Roborock Robotic Vacuum Cleaner Parts-QRevo Rotating Mop Cloth (2 sets)",
+      "PriceEx": "13.98"
+    },
+    {
+      "ID": 44,
+      "SKU": "RR-S8PU02-03-WHT",
+      "Description": "Roborock S8 PRO Ultra Robotic Vacuum Cleaner - White",
+      "PriceEx": "1272.09"
+    },
+    {
+      "ID": 45,
+      "SKU": "RR-QR02-03-WHT",
+      "Description": "Roborock Robotic Vacuum Cleaner QRevo White",
+      "PriceEx": "826.63"
+    },
+    {
+      "ID": 46,
+      "SKU": "RR-Q8MP02-03-BLK",
+      "Description": "Roborock Q8 Max+ Robot Vacuum Cleaner",
+      "PriceEx": "803.01"
+    },
+    {
+      "ID": 47,
+      "SKU": "RR-OMO-FLUID",
+      "Description": "Roborock Omo Floor Cleaner Fluid 480ml",
+      "PriceEx": "16.52"
+    },
+    {
+      "ID": 48,
+      "SKU": "8.02.0198",
+      "Description": "Roborock Double VibraRise 2.0 Mop Cloth for S8 Pro Ultra",
+      "PriceEx": "29.18"
+    },
+    {
+      "ID": 49,
+      "SKU": "RR-Q5PR52-03-BLK",
+      "Description": "Roborock Q5 Pro - Black",
+      "PriceEx": "432.10"
+    },
+    {
+      "ID": 50,
+      "SKU": "8.02.0056",
+      "Description": "Roborock Q5 Pro - Mop Cloths",
+      "PriceEx": "26.53"
+    },
+    {
+      "ID": 51,
+      "SKU": "8.02.0199",
+      "Description": "Roborock Detachable Main Brush for S8 | S8+ | S8 Pro Ultra | Q8Max+ | Q5 Pro",
+      "PriceEx": "47.21"
+    },
+    {
+      "ID": 52,
+      "SKU": "8.02.0298",
+      "Description": "Roborock Side Brush Black for S8 | S8+ | S8 Pro Ultra | Qrevo | Q8 Max+ | Q5 Pro",
+      "PriceEx": "23.57"
+    },
+    {
+      "ID": 53,
+      "SKU": "8.02.0134",
+      "Description": "Roborock Q5 Pro - Washable Dust Bin Filter",
+      "PriceEx": "23.57"
+    },
+    {
+      "ID": 54,
+      "SKU": "RR-QRMV02-03-WHT",
+      "Description": "Roborock Qrevo MaxV",
+      "PriceEx": "1359.38"
+    },
+    {
+      "ID": 55,
+      "SKU": "8.02.0246",
+      "Description": "Roborock Qrevo MaxV - Rotating Mop Cloth",
+      "PriceEx": null
+    },
+    {
+      "ID": 56,
+      "SKU": "8.02.0238",
+      "Description": "Roborock Qrevo MaxV - Disposable Dust bag\n(3 Pack)",
+      "PriceEx": "23.57"
+    },
+    {
+      "ID": 57,
+      "SKU": "8.02.0314",
+      "Description": "Roborock Qrevo MaxV - Dust Container Cover Light Gray",
+      "PriceEx": "59.03"
+    },
+    {
+      "ID": 58,
+      "SKU": "RR-S8MVU52-03-BLK",
+      "Description": "Roborock S8 MaxV Ultra - Black",
+      "PriceEx": "1853.92"
+    },
+    {
+      "ID": 59,
+      "SKU": "8.02.0320",
+      "Description": "Roborock S8 MaxV Ultra - Washable Filter (White)",
+      "PriceEx": "33.03"
+    },
+    {
+      "ID": 60,
+      "SKU": "8.02.0321",
+      "Description": "Roborock S8 MaxV Ultra - Double VibraRise 2.0 Mop Cloth (Gray)",
+      "PriceEx": "19.01"
+    },
+    {
+      "ID": 61,
+      "SKU": "8.02.0322",
+      "Description": "Roborock S8 MaxV Ultra - Rubber Main Brush (Red & Gray)",
+      "PriceEx": "27.79"
+    },
+    {
+      "ID": 62,
+      "SKU": "8.02.0323",
+      "Description": "Roborock S8 MaxV Ultra - Edgewise Mop Cloth (Gray)",
+      "PriceEx": "12.71"
+    },
+    {
+      "ID": 63,
+      "SKU": "8.02.0131",
+      "Description": "Roborock S8 Pro Ultra Disposable Dust Bag (White 3 Pack)",
+      "PriceEx": "13.98"
+    },
+    {
+      "ID": 64,
+      "SKU": "RR-WD3D1A02-09-WHT",
+      "Description": "Roborock Flexi Pro - White",
+      "PriceEx": "617.56"
+    },
+    {
+        "ID": 65,
+        "SKU": "8.02.0092",
+        "Description": "S7 Roborock Accessories Kit - White",
+        "PriceEx": "50.82"
+      },
+      {
+        "ID": 66,
+        "SKU": "RR-WD3D3A01-09-WHT",
+        "Description": "Roborock Flexi Lite - White",
+        "PriceEx": "432.1"
+      },
+      {
+        "ID": 67,
+        "SKU": "8.02.0079",
+        "Description": "Roborock Rubber Main Brush (Red) for S7 MaxV/Q7 Max/Q7/S7/ Qrevo/ Qrevo MaxV/Qrevo S",
+        "PriceEx": "16.52"
+      },
+      {
+        "ID": 68,
+        "SKU": "8.02.0082",
+        "Description": "Roborock Washable Filter - Top Placement (White) for S7 MaxV/S7/ S8/S8+/S8 Pro Ultra",
+        "PriceEx": "33.03"
+      },
+      {
+        "ID": 69,
+        "SKU": "RR-QRM52-03-BLK",
+        "Description": "Roborock Qrevo Master - Black",
+        "PriceEx": "1668.47"
+      },
+      {
+        "ID": 70,
+        "SKU": "RR-QRS02-03-WHT",
+        "Description": "Roborock Qrevo S Robot Vacuum with Multifunctional Dock - White",
+        "PriceEx": "926.65"
+      },
+      {
+        "ID": 71,
+        "SKU": "8.02.0241",
+        "Description": "Roborock Rubber Main Brush Cover (White) - Qrevo | Qrevo MaxV | Qrevo S",
+        "PriceEx": "15.25"
+      },
+      {
+        "ID": 72,
+        "SKU": "8.02.0242",
+        "Description": "Roborock Rubber Main Brush Cover (Black) Qrevo | Qrevo S",
+        "PriceEx": "15.25"
+      },
+      {
+        "ID": 73,
+        "SKU": "8.02.0299",
+        "Description": "Roborock Side Brush (White 2 Pack) - Qrevo | Q8 Max+ |Qrevo MaxV | Qrevo S",
+        "PriceEx": "11.77"
+      },
+      {
+        "ID": 74,
+        "SKU": "8.02.0296",
+        "Description": "Roborock Washable Filter (White 2 Pack) - Qrevo MaxV | Qrevo S",
+        "PriceEx": "14.51"
+      },
+      {
+        "ID": 75,
+        "SKU": "8.02.0232",
+        "Description": "Roborock Side Brush (Black 2 Pack) - Qrevo | Qrevo Master",
+        "PriceEx": "21.76"
+      },
+      {
+        "ID": 76,
+        "SKU": "8.02.0341",
+        "Description": "Roborock Washable Filter White (2 Pack) - Qrevo Master",
+        "PriceEx": "29.95"
+      },
+      {
+        "ID": 77,
+        "SKU": "8.08.0031",
+        "Description": "Roborock Wet and Dry Roller - Flexi Pro",
+        "PriceEx": "27.22"
+      },
+      {
+        "ID": 78,
+        "SKU": "8.08.0032",
+        "Description": "Roborock Wet and Dry Roller - Flexi Lite",
+        "PriceEx": "27.22"
+      },
+      {
+        "ID": 79,
+        "SKU": "8.08.0033",
+        "Description": "Roborock Wet and Dry Filter (2 Pack) - Flexi Pro | Flexi Lite",
+        "PriceEx": "21.76"
+      },
+      {
+        "ID": 80,
+        "SKU": "8.02.0053",
+        "Description": "Roborock Side Brush (White 2 Pack) - Q7 Max | Q7 | S7 | S5 Max | S6 Pure",
+        "PriceEx": "12.71"
+      },
+      {
+        "ID": 81,
+        "SKU": "8.02.0091",
+        "Description": "Roborock Accessories Kit (Black) - S7 MaxV | S7",
+        "PriceEx": "50.82"
+      },
+      {
+        "ID": 82,
+        "SKU": "8.02.0129",
+        "Description": "Roborock Antibacterial Vibrarise Mop Cloth (Light Grey) - S7 MaxV | S8 | S8+",
+        "PriceEx": "13.98"
+      },
+      {
+        "ID": 83,
+        "SKU": "8.02.0204",
+        "Description": "Roborock High-Speed Maintenance Brush - S7 MaxV Ultra | S7 Max Ultra | S8 Pro Ultra",
+        "PriceEx": "17.79"
+      },
+      {
+        "ID": 84,
+        "SKU": "8.02.0143",
+        "Description": "Roborock Accessories Kit - S7 MaxV",
+        "PriceEx": "55.9"
+      },
+      {
+        "ID": 85,
+        "SKU": "8.02.0211",
+        "Description": "Roborock Accessories Kit - S8 |S8+",
+        "PriceEx": "58.5"
+      }
+    ]
+}

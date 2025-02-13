@@ -1,0 +1,32 @@
+{
+  "name": "tso-dash",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "^4.1.5",
+    "cmdk": "^1.0.4",
+    "framer-motion": "^11.11.17",
+    "from": "^0.1.7",
+    "graphql-request": "^7.1.2",
+    "motion": "^11.11.17",
+    "next": "^14.2.18",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.3.0",
+    "react-router-dom": "^7.0.2",
+    "router-dom": "^3.0.1",
+    "tailwind-merge": "^2.5.5"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
